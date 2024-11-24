@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @salma735
+- 👋 Hi, I’m Salma
 - 👀 I’m interested in learning, visiting new places, exploring myself.
 - 🌱 I’m currently learning Data Analytics
 - 💞️ I’m looking to collaborate on internship or job based on Data Analytics
